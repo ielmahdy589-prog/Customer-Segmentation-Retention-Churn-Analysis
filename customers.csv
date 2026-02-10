@@ -1,0 +1,51 @@
+customer_id,customer_name,city,segment
+C0001,Customer 1,Alex,Consumer
+C0002,Customer 2,Mansoura,Corporate
+C0003,Customer 3,Cairo,Consumer
+C0004,Customer 4,Cairo,Consumer
+C0005,Customer 5,Mansoura,Corporate
+C0006,Customer 6,Alex,Home Office
+C0007,Customer 7,Mansoura,Corporate
+C0008,Customer 8,Alex,Consumer
+C0009,Customer 9,Mansoura,Home Office
+C0010,Customer 10,Cairo,Home Office
+C0011,Customer 11,Cairo,Corporate
+C0012,Customer 12,Alex,Corporate
+C0013,Customer 13,Cairo,Corporate
+C0014,Customer 14,Mansoura,Consumer
+C0015,Customer 15,Alex,Consumer
+C0016,Customer 16,Cairo,Corporate
+C0017,Customer 17,Giza,Consumer
+C0018,Customer 18,Alex,Home Office
+C0019,Customer 19,Giza,Consumer
+C0020,Customer 20,Cairo,Consumer
+C0021,Customer 21,Giza,Corporate
+C0022,Customer 22,Alex,Corporate
+C0023,Customer 23,Giza,Home Office
+C0024,Customer 24,Cairo,Consumer
+C0025,Customer 25,Mansoura,Consumer
+C0026,Customer 26,Cairo,Corporate
+C0027,Customer 27,Giza,Home Office
+C0028,Customer 28,Cairo,Home Office
+C0029,Customer 29,Alex,Corporate
+C0030,Customer 30,Giza,Consumer
+C0031,Customer 31,Giza,Home Office
+C0032,Customer 32,Cairo,Corporate
+C0033,Customer 33,Mansoura,Home Office
+C0034,Customer 34,Mansoura,Corporate
+C0035,Customer 35,Alex,Consumer
+C0036,Customer 36,Alex,Corporate
+C0037,Customer 37,Mansoura,Corporate
+C0038,Customer 38,Giza,Home Office
+C0039,Customer 39,Cairo,Consumer
+C0040,Customer 40,Giza,Consumer
+C0041,Customer 41,Alex,Home Office
+C0042,Customer 42,Alex,Home Office
+C0043,Customer 43,Alex,Corporate
+C0044,Customer 44,Mansoura,Consumer
+C0045,Customer 45,Mansoura,Home Office
+C0046,Customer 46,Alex,Home Office
+C0047,Customer 47,Giza,Home Office
+C0048,Customer 48,Alex,Consumer
+C0049,Customer 49,Alex,Consumer
+C0050,Customer 50,Cairo,Corporate
